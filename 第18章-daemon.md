@@ -152,3 +152,5 @@ tcp    0 0 0.0.0.0:873      0.0.0.0:*     LISTEN      4925/xinetd
 ```
 
 也就是说，你先修改 /etc/xinetd.d/ 底下的配置文件，然后再重新启动 xinetd 就对了！而 xinetd 是一个 stand alone 启动的服务！这部份得要特别留意呢！
+
+**Xinetd 服务的搭建与配置**：https://blog.51cto.com/13525470/2060765
