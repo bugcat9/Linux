@@ -1,0 +1,6 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0    896   524 ?        Sl   10:28   0:00 /init
+root       424  0.0  0.0    904    80 ?        Ss   10:56   0:00 /init
+root       425  0.0  0.0    904    84 ?        S    10:56   0:00 /init
+zhouning   426  0.0  0.0  57160  7592 pts/0    Ss   10:56   0:00 -zsh
+zhouning   839  0.0  0.0  37804  3360 pts/0    R+   11:05   0:00 ps aux
